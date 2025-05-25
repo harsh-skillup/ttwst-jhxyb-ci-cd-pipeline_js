@@ -32,6 +32,6 @@
     "engines": {
       "node": ">=16.0.0"
     },
-    "author": "Developer",
+    "author": "Harsh Singh",
     "license": "Apache-2.0"
   }
